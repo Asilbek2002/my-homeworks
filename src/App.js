@@ -1,7 +1,8 @@
 import "./App.css";
+import Calculate from "./components/calculate";
 
 function App() {
-  return <div className="App">My Tasbih app</div>;
+  return <Calculate/>
 }
 
 export default App;
