@@ -15,8 +15,8 @@ export default class App extends Component {
     for (let i = 0; i < count; i++) {
       table.push(
         <tr>
-          <td>Edward</td>
-          <td>32</td>
+          <td>Tom</td>
+          <td>10</td>
           <td>London Park No {i}</td>
           <td>London Park No {i}</td>
           <td>London Park No {i}</td>
