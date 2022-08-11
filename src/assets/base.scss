@@ -4,8 +4,12 @@
   box-sizing: border-box;
   user-select: none;
 }
-body {
-  display: grid;
-  height: 100vh;
-  place-items: center;
+.navbar-nav {
+  flex-direction: row !important; 
+  gap: 1rem;
+}
+
+.nav-link,
+.navbar-brand {
+  cursor: pointer;
 }
